@@ -10,7 +10,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   </a>
 </div>
-
+<br>
 <img  src="https://github-readme-stats.vercel.app/api?username=tejashri-taral&&show_icons=true&theme=tokyonight"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri-taral&theme=tokyonight" alt="tejashri-taral" /></p>
