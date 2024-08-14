@@ -1,4 +1,4 @@
-<h1> Hi, I am Tejashri Taral</h1>
+<h1> Hey, I am Tejashri Taral</h1>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
