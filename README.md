@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://images.app.goo.gl/rav1JFrnw95txqae9" height="50"  />
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://images.app.goo.gl/rav1JFrnw95txqae9" />
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
