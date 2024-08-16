@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fhello&psig=AOvVaw1ACMF_VNXPYSz8FmOzqEN6&ust=1723900410134000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjjzdHL-YcDFQAAAAAdAAAAABAE" height="50"  />
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.askingfortrouble.co.uk%2F2012%2F06%2Fhello-laptop%2F&psig=AOvVaw3XqHkChc4qskB290HXyHLz&ust=1723900622262000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDMhrXM-YcDFQAAAAAdAAAAABAR" height="50"  />
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
