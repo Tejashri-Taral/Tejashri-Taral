@@ -17,7 +17,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri-taral&theme=tokyonight" alt="tejashri-taral" /></p>
 
-<p align="center">
+<p align="corner">
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+<p align="corner">
+  <a href="https://buymeacoffee.com/siddheyakue" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
 </p>
 
