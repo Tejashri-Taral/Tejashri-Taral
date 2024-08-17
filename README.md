@@ -1,5 +1,27 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="50" />
+
 <h3 align="center">I am a passionate Java developer </h3>
+<picture>
+  <img src="https://www.icegif.com/wp-content/uploads/icegif-4379.gif" align="right" width="30%" alt="Image">
+</picture>
+
+
+- 🌱 I’m currently learning more about: **Opensource, Java and Data Structures and Algorithm and web development**
+
+- 😄 Pronouns: **She/Her**
+
+- 🏆 Goal: Contribute more to open-source projects.
+
+- 💬 Ask me about **Java and Data Structures**
+
+- 📫 How to reach me **ataral427@gmail.com**
+
+- ⚡ **Would love to explore new things.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejashri" height="30" width="40" /></a>
+</p>
   
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
