@@ -17,4 +17,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejashri-taral&theme=tokyonight" alt="tejashri-taral" /></p>
 
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
 
