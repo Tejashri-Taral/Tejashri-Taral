@@ -6,7 +6,7 @@
 </picture>
 
 
-- 🌱 I’m currently learning more about: **Opensource, Java and Data Structures and Algorithm and web development**
+- 🌱 I’m currently learning more about: **Opensource, Java and Data Structures and Algorithm and Web development**
 
 - 😄 Pronouns: **She/Her**
 
