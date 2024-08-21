@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="50" />
 
-<h3 align="center">I am a passionate Java developer </h3>
+<h3 align="center">I am a passionate Java developer</h3>
 <picture>
   <img src="https://www.icegif.com/wp-content/uploads/icegif-4379.gif" align="right" width="30%" alt="Image">
 </picture>
