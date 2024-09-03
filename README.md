@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="50" />
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/">Tejashri Taral</a> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" height="50" />
 
 <h3 align="center">I am a passionate Java developer</h3>
 <picture>
