@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a passionate Java developer</h3>
 <picture>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" align="right" width="40%" alt="Image">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" align="right" width="45%" alt="Image">
 </picture>
 
 
