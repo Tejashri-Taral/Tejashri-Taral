@@ -26,9 +26,6 @@
 <a href="https://x.com/Tejashri_10?t=SWxALwKxy-nVrTcbYTFUcA&s=08" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg&ga=GA1.1.178925768.1724532042&semt=ais_hybrid" alt="ayeshaquazi1" height="35" width="35" /></a>
 </p>
 
-## Holophin Badges - Hactoberfest 2024 
-[![An image of @tejashritaral's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejashritaral)](https://holopin.io/@tejashritaral)
-
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
