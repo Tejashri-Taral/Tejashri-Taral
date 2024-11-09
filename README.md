@@ -5,6 +5,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" align="right" width="45%" alt="Image">
 </picture>
 
+  [![GitHub followers](https://img.shields.io/github/followers/Tejashri-Taral?label=Follow&style=social)](https://github.com/Tejashri-Taral)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Tejashri-Taral&color=blue)
 
 - 🌱 I’m currently learning more about: **Opensource, Java and Data Structures and Algorithm and Web development**
 
