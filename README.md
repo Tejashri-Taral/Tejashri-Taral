@@ -25,6 +25,12 @@
 <a href="https://www.linkedin.com/in/tejashri-taral-5006a82a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejashri" height="30" width="40"/></a>
 <a href="https://x.com/Tejashri_10?t=SWxALwKxy-nVrTcbYTFUcA&s=08" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=626&ext=jpg&ga=GA1.1.178925768.1724532042&semt=ais_hybrid" alt="ayeshaquazi1" height="35" width="35" /></a>
 </p>
+<br>
+
+## Holophin Badges - Hactoberfest 2024 
+[![An image of @tejashritaral's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejashritaral)](https://holopin.io/@tejashritaral)
+
+<br>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
