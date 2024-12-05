@@ -21,7 +21,7 @@
 
 - ⚡ **Would love to explore new things.**
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tejashri-Taral" alt="Tejashri-Taral"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tejashri-Taral&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="Tejashri-Taral"/>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
