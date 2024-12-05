@@ -8,6 +8,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/Tejashri-Taral?label=Follow&style=social)](https://github.com/Tejashri-Taral)
   ![Profile Views](https://komarev.com/ghpvc/?username=Tejashri-Taral&color=blue)
 
+
 - 🌱 I’m currently learning more about: **Opensource, Java and Data Structures and Algorithm and Web development**
 
 - 😄 Pronouns: **She/Her**
@@ -19,6 +20,8 @@
 - 📫 How to reach me **ataral427@gmail.com**
 
 - ⚡ **Would love to explore new things.**
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tejashri-Taral" alt="Tejashri-Taral"/>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
